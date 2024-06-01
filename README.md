@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bhardwaj</h1>
 <h3 align="center">A passionate Software Developer Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Data Structures & Algorithms, Problem Solving**
